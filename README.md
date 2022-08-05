@@ -15,7 +15,7 @@
 
 
 
- - CRUD
+ - Invoice Data
    -
      
     1. Enter new invoice details.
