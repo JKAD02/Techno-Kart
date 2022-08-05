@@ -4,7 +4,7 @@
 
 - Clone Repo
    -
-   - link 
+   - https://github.com/JKAD02/Techno-Kart.git 
    - npm install 
 
  - Start Server
